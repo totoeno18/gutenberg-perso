@@ -1,2 +1,15 @@
-Calligrammes : Poèmes de la paix et de la guerre (1913-1916)
-Guillaume Apollinaire
+o_thomas_guitte - Gautier 2025
+
+
+J’ai voulu committer mon cœur,  
+mais Git m’a dit : "erreur de merge intérieur".  
+Alors j’ai fait un `git add .` sur mes pensées,  
+et un `git commit -m "Blague bien placée"`.  
+
+Push vers le ciel, pull vers la terre,  
+mes branches se croisent, c’est le mystère.  
+Même quand la vie me fait un conflit,  
+je résous ça avec humour… et `git rebase -i`.  
+
+O Thomas Guitte, dans ce monde automatique,  
+Git garde nos souvenirs — c’est poétique !  
