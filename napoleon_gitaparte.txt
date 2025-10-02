@@ -1,0 +1,14 @@
+Napoléon Gitaparte - 20 décembre 1848 (c'est pas la bonne date)
+
+Waterloo ? Pas cette fois.  
+Si j’avais eu `git push --force`,  
+j’aurais réécrit l’histoire.  
+Un rebase bien mené, et hop,  
+plus de défaite dans le log.  
+
+Les Anglais ?  
+`git revert` sur Wellington,  
+`git stash drop` sur mes canons.  
+Tout merge propre,  
+aucun conflit,  
+la branche empire reste infinie.  
